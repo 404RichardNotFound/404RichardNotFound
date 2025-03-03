@@ -1,4 +1,4 @@
-Hi there 👋, I'm Richard.
+  Hi there 👋, I'm Richard.
 
 - 🌱 I’m a frontend developer.
 - 🔭 Currently working on improving my whole frontend skill through consistent practice 
